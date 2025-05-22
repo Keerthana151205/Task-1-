@@ -1,1 +1,5 @@
-a1 is a text file
+<<<<<<< HEAD
+a1 is text file
+=======
+this is a1 text file 
+>>>>>>> First

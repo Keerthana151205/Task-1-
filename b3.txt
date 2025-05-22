@@ -1,1 +1,6 @@
-b3 is a empty text file 
+
+<<<<<<< HEAD
+b3 is a empty file 
+=======
+this is a b3 text file
+>>>>>>> First

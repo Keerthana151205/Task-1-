@@ -1,1 +1,6 @@
-a3 is a text file 
+
+<<<<<<< HEAD
+a3 is text file 
+=======
+this is a3 text file 
+>>>>>>> First

@@ -1,1 +1,5 @@
+ <<<<<<< HEAD
 c3 is a file 
+=======
+tis is a c3 text file
+>>>>>>> First

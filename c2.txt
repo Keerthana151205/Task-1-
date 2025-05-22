@@ -1,1 +1,5 @@
+ <<<<<<< HEAD
 c2 is a file 
+=======
+this is a c2 text file
+>>>>>>> First

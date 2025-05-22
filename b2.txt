@@ -1,1 +1,1 @@
-this is b2 text file
+this is a b2 text file
